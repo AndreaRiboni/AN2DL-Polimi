@@ -1,4 +1,4 @@
-# AN2DL homeworks @ Polimi
+# AN2DL homeworks @ Polimi, 2022/23
 ## Artificial Neural Networks and Deep Learning
 ### Homework 1: Image classification
 Plant species classification
@@ -6,11 +6,14 @@ Plant species classification
 - Ensemble of 
   - Transfer Learning with Xception
   - Transfer Learning with EfficientNet
+ Up to 86% accuracy
 
 ### Homework 2: Time series classification
 After experimenting with purely-convolutional networks, LSTMs, GRUs, BiLSTMs and Transformers, the best model was obtained with a hybrid of pure-LSTM and pure-convolutional
 
 ### Teammates
+Driing_Lning members
 - Valeria Amato: [@valeMTO](https://github.com/valeMTO)
 - Emanuele Paci: [@emanuelePaci](https://github.com/emanuelePaci)
 - Andrea Riboni: [@AndreaRiboni](https://github.com/AndreaRiboni)
+Up to 71% accuracy
