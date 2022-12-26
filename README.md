@@ -18,4 +18,4 @@ Driing_Lning members
 - Emanuele Paci: [@emanuelePaci](https://github.com/emanuelePaci)
 - Andrea Riboni: [@AndreaRiboni](https://github.com/AndreaRiboni)
 
-Up to 71% accuracy, awarded 5/5
+Up to 71% accuracy, not yet awarded
